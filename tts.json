@@ -1,7 +1,14 @@
 [
   {
-    "name": "MC Thuỳ Mai",
-    "voice_url": "https://raw.githubusercontent.com/hero120305-dev/Thu-d-ng/main/hien-dai-nguoc-neu-khong-la-tinh-yeu-mc_95AuNDKB.mp3",
-    "lang": "vi-VN"
+    "name": "Giọng đọc Hiện Đại Ngược",
+    "author": "hero120305-dev",
+    "version": 1,
+    "summary": "Giọng đọc truyện upload từ GitHub cá nhân",
+    "type": "tts",
+    "locale": "vi",
+    "engine": "audio_url",
+    "config": {
+      "url": "https://raw.githubusercontent.com/hero120305-dev/Thu-d-ng/main/hien-dai-nguoc-neu-khong-la-tinh-yeu-mc_95AuNDKB.mp3"
+    }
   }
 ]
